@@ -1,4 +1,5 @@
-# Task1：主要目标————了解Deepfake和baseline
+# 【Datawhale AI 夏令营】Deepfake攻防挑战赛 - 图像赛道_01
+#AI夏令营
 
 ## 0. Deepfake是咩？
 ### 0.1 deepfake定义
